@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "exports": {
-    "./client": "./src/client.ts"
+    "./client": "./src/index.ts"
   },
   "private": true,
   "devDependencies": {
